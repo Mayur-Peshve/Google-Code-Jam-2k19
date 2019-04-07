@@ -8,7 +8,7 @@ Created on Sun Apr  7 07:20:59 2019
 The logic I used was to subtract from the given number, a number with 1s 
 present only at those locations where 4s are present.
 For Example: 940 is split as 930 and 30.
-This can be done for any and all inputs 
+This can be done for any and all inputs I believe
 '''
 n=int(input())
 k=[]
